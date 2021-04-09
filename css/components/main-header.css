@@ -1,0 +1,8 @@
+.main-header{
+    
+}
+
+.main-header .navigation{
+    display: flex;
+    flex-direction: column;
+}
