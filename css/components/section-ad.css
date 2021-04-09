@@ -1,0 +1,51 @@
+.section-ad{
+    margin-bottom: 35px;
+}
+
+.section-ad .main-title.-minor{
+    margin-bottom: 31px;
+}
+
+.section-ad .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 715px;
+    height: 201px;
+    background: linear-gradient(252.51deg, #FFFA88 0%, #FFD093 100%);
+    box-shadow: 5px 10px 10px rgba(250, 193, 118, 0.15);
+    border-radius: 15px;
+}
+
+.section-ad .subcontainer{
+    margin-left: 21px;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-ad .main-title.-yellow{
+    display: inline-block;
+    color: #B56B00;
+    padding-top: 0;
+    max-width: 435px;
+    height: 90px;
+    margin-bottom: 34px;
+}
+
+.section-ad .button{
+    display: inline-block;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background: rgba(239, 166, 70, 0.67);
+    color: #B56B00;
+    width: 144px;
+    height: 34px;
+    border: none;
+    border-radius: 77px;
+    cursor: pointer;
+}
+
+.section-ad .button:hover{
+    background-color: #ffc475;
+}
