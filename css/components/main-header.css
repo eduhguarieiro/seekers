@@ -1,7 +1,8 @@
 .main-header{
     display: inline-flex;
-    padding-top: 47px;
-    padding-left: 35px;
+    position: absolute;
+    top: 4%;
+    margin-left: 35px;
     width: 318px;
 }
 
