@@ -3,7 +3,7 @@
     box-sizing: border-box;
     background-color: #fff;
     margin-top: 28px;
-    margin-left: 318px;
+    margin-left: 23px;
     padding-left: 40px;
     width: 798px;
     border-radius: 15px 15px 0 0;
@@ -34,4 +34,5 @@
 .main-section.-minor{
     display: inline-block;
     width: 284px;
+    margin-right: 35px;
 }

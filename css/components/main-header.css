@@ -1,9 +1,7 @@
 .main-header{
     display: inline-flex;
-    position: absolute;
-    top: 4%;
+    margin-top: 47px;
     margin-left: 35px;
-    width: 318px;
 }
 
 .main-header .navigation{
