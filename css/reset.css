@@ -29,6 +29,8 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	display: flex;
+	justify-content: space-between;
 	background-color: #E5E5E5;
     font-family: "Montserrat Alternates", sans-serif;
 	line-height: 1;
