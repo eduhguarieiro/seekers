@@ -1,0 +1,46 @@
+.main-card{
+    display: flex;
+    flex-direction: column;
+    padding-top: 28px;
+    padding-left: 25px;
+    box-sizing: border-box;
+    width: 210px;
+    height: 282px;
+    border-radius: 15px;
+    border: 1px solid red;
+}
+
+.main-card .logo{
+    width: 85px;
+    height: 85px;
+    margin-bottom: 14px;
+}
+
+.main-card .main-subtitle{
+    margin-bottom: 12px;
+}
+
+.main-card .item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.main-card .minilogo{
+    width: 18px;
+    height: 18px;
+    padding-right: 9px;
+    padding-bottom: 10px;
+}
+
+.main-card .main-subtitle.-second{
+    padding-top: 5px;
+}
+
+.main-card .save{
+    width: 20px;
+    height: 25px;
+    position: relative;
+    left: 154px;
+    bottom: 276px;
+}
