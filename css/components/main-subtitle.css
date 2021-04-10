@@ -1,5 +1,11 @@
 .main-subtitle{
     font-weight: 600;
-    font-size: 36px;
-    color: #F29C1F;
+    font-size: 18px;
+    color: #363636;
+}
+
+.main-subtitle.-second{
+    font-weight: 400;
+    font-size: 12px;
+    color: #8b8b8b;
 }
