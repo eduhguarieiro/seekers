@@ -30,3 +30,8 @@
     outline: none;
     margin-bottom: 20px;
 }
+
+.main-section.-minor{
+    display: inline-block;
+    width: 284px;
+}
