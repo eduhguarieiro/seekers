@@ -4,10 +4,10 @@
     padding-top: 28px;
     padding-left: 25px;
     box-sizing: border-box;
+    background-color: #fff;
     width: 210px;
     height: 282px;
     border-radius: 15px;
-    border: 1px solid red;
 }
 
 .main-card .logo{
@@ -43,4 +43,5 @@
     position: relative;
     left: 154px;
     bottom: 276px;
+    cursor: pointer;
 }
